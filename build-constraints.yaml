@@ -827,6 +827,9 @@ packages:
         - aeson
         - attoparsec-iso8601
         - fay
+        - fay-base
+        - fay-dom
+        - fay-jquery
         - feed
         - time-compat
         - through-text
